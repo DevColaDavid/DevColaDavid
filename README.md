@@ -25,39 +25,11 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a2980?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-1a2980?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a2980?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a2980?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a2980?style=flat-square&logo=typescript&logoColor=white)
+![Skills](./assets/skills-marquee.svg)
 
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-0b6e75?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0b6e75?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0b6e75?style=flat-square&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0b6e75?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b6e75?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0b6e75?style=flat-square&logo=supabase&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-0b6e75?style=flat-square&logo=expo&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0b6e75?style=flat-square&logo=vercel&logoColor=white)
-
-**Robotics & Controls**
-
-![WPILib](https://img.shields.io/badge/WPILib-26d0ce?style=flat-square&logo=wpilib&logoColor=white)
-![Motor Control](https://img.shields.io/badge/Motor%20Control-26d0ce?style=flat-square&logo=arduino&logoColor=white)
-![Feedback & Feedforward](https://img.shields.io/badge/Feedback%20%26%20Feedforward-26d0ce?style=flat-square&logo=robotframework&logoColor=white)
-![Subsystem Control](https://img.shields.io/badge/Subsystem%20Control-26d0ce?style=flat-square&logo=robotframework&logoColor=white)
-![Pneumatics](https://img.shields.io/badge/Pneumatics-26d0ce?style=flat-square&logo=airplayaudio&logoColor=white)
-
-**CAD & Tools**
-
-![Onshape](https://img.shields.io/badge/Onshape-4b5563?style=flat-square&logo=onshape&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-4b5563?style=flat-square&logo=autodeskfusion360&logoColor=white)
-![Inventor](https://img.shields.io/badge/Inventor-4b5563?style=flat-square&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4b5563?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ## 📌 Featured Projects
 
