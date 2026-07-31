@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Programming+Lead+%40+FRC+Team+4270;Robotics+Mentor;Full-Stack+Developer+%7C+CAD+%7C+Rocketry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Programming+Lead+%40+FRC+Team+4270;Robotics+Student;Full-Stack+Developer+%7C+CAD+%7C+Science)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 - 🎓 High school junior at **Saint Louis School**, Honolulu, Hawaii
 - 🤖 **Programming Lead** for **FRC Team 4270 (The Crusaders)** & robotics mentor
 - ⚙️ Hands-on with **control systems** — motor control, subsystem commands, and mechanism actuation from FRC
-- 🛰️ Into robotics, CAD, rocketry, and space
+- 🛰️ Into robotics, CAD, and space
 - 🌐 Building full-stack web apps (currently **Kairos**, a student productivity platform)
 - 🏀 Basketball, JROTC, and church community when I'm off the keyboard
 
