@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Skills](./assets/skills-marquee.svg)
+![Skills](./skills-marquee.svg)
 
 </div>
 
