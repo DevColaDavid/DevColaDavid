@@ -34,6 +34,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1A1A1A?style=flat-square&logo=onshape&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodeskfusion360&logoColor=white)
@@ -44,9 +46,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Kairos](https://github.com/DevColaDavid/kairos)** | Student productivity app — class tracking, scheduling, fitness & time analytics | Next.js · Prisma · Neon |
 | **[FRC 4270 Robot Code](https://github.com/DevColaDavid/frc-4270)** | Competition robot code for The Crusaders | Java · WPILib |
-| **[Pinned Repo 3](https://github.com/DevColaDavid/repo3)** | Short description here | — |
+| **[Kairos](https://github.com/DevColaDavid/kairos)** | Student productivity app — class tracking, scheduling, fitness & time analytics | Next.js · Prisma · Neon |
+| **[Trekly](https://github.com/DevColaDavid/Trekly)** | Group trip & hangout planner — shared calendar, chat, polls, notes, and expense splitting across web, iOS & Android | Expo · Supabase · TypeScript |
 
 > 💡 Pin your best repos: **Profile → Customize your pins**
 
