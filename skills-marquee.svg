@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" fill="none" role="img" aria-label="Skills marquee">
+  <defs>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#26d0ce"/>
+      <stop offset="1" stop-color="#4d8fff"/>
+    </linearGradient>
+    <!-- fade edges so items appear/disappear smoothly -->
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.08" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="0.92" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="edgemask">
+      <rect width="900" height="60" fill="white"/>
+      <rect width="900" height="60" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <style>
+    .item { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 20px; font-weight: 600; fill: url(#txt); }
+    .dot  { fill: #3a4553; }
+  </style>
+
+  <g mask="url(#edgemask)">
+    <!-- Two identical copies placed back-to-back; translating by exactly one copy width and looping gives a seamless scroll. Copy width = 1500. -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 0" to="-1500 0" dur="30s" repeatCount="indefinite"/>
+
+      <!-- COPY 1 -->
+      <g transform="translate(0,0)">
+        <text class="item" x="0"    y="38">Python</text>
+        <circle class="dot" cx="105" cy="32" r="3"/>
+        <text class="item" x="130"  y="38">C++</text>
+        <circle class="dot" cx="200" cy="32" r="3"/>
+        <text class="item" x="225"  y="38">Java</text>
+        <circle class="dot" cx="295" cy="32" r="3"/>
+        <text class="item" x="320"  y="38">TypeScript</text>
+        <circle class="dot" cx="450" cy="32" r="3"/>
+        <text class="item" x="475"  y="38">React</text>
+        <circle class="dot" cx="555" cy="32" r="3"/>
+        <text class="item" x="580"  y="38">Next.js</text>
+        <circle class="dot" cx="680" cy="32" r="3"/>
+        <text class="item" x="705"  y="38">Node.js</text>
+        <circle class="dot" cx="815" cy="32" r="3"/>
+        <text class="item" x="840"  y="38">Supabase</text>
+        <circle class="dot" cx="975" cy="32" r="3"/>
+        <text class="item" x="1000" y="38">WPILib</text>
+        <circle class="dot" cx="1105" cy="32" r="3"/>
+        <text class="item" x="1130" y="38">Motor Control</text>
+        <circle class="dot" cx="1305" cy="32" r="3"/>
+        <text class="item" x="1330" y="38">Feedforward</text>
+      </g>
+
+      <!-- COPY 2 (identical, shifted right by 1500) -->
+      <g transform="translate(1500,0)">
+        <text class="item" x="0"    y="38">Python</text>
+        <circle class="dot" cx="105" cy="32" r="3"/>
+        <text class="item" x="130"  y="38">C++</text>
+        <circle class="dot" cx="200" cy="32" r="3"/>
+        <text class="item" x="225"  y="38">Java</text>
+        <circle class="dot" cx="295" cy="32" r="3"/>
+        <text class="item" x="320"  y="38">TypeScript</text>
+        <circle class="dot" cx="450" cy="32" r="3"/>
+        <text class="item" x="475"  y="38">React</text>
+        <circle class="dot" cx="555" cy="32" r="3"/>
+        <text class="item" x="580"  y="38">Next.js</text>
+        <circle class="dot" cx="680" cy="32" r="3"/>
+        <text class="item" x="705"  y="38">Node.js</text>
+        <circle class="dot" cx="815" cy="32" r="3"/>
+        <text class="item" x="840"  y="38">Supabase</text>
+        <circle class="dot" cx="975" cy="32" r="3"/>
+        <text class="item" x="1000" y="38">WPILib</text>
+        <circle class="dot" cx="1105" cy="32" r="3"/>
+        <text class="item" x="1130" y="38">Motor Control</text>
+        <circle class="dot" cx="1305" cy="32" r="3"/>
+        <text class="item" x="1330" y="38">Feedforward</text>
+      </g>
+    </g>
+  </g>
+</svg>
